@@ -1,8 +1,26 @@
-# Courier Prime Sans
+# PARANOIA SANS
+V. 1.2
 
-Courier Prime Sans is the sans serif version of [Courier Prime](https://github.com/quoteunquoteapps/CourierPrime). It was designed by Alan Dague-Greene for John August and released as “Highland Sans” with [Highland](http://quoteunquoteapps.com/highland/) by Quote-Unquote Apps.
+![](images/Logo.png)
 
-## Related repositories
+A self-censoring font by [Florian Egermann](https://www.fleg.de), 2020
 
-- [Courier Prime](https://github.com/quoteunquoteapps/CourierPrime)
-- [Courier Prime Code](https://github.com/quoteunquoteapps/CourierPrimeCode)
+Based on [Courier Prime Sans](https://quoteunquoteapps.com/courierprime/#code-sans) by [Quote-Unquote Apps](https://quoteunquoteapps.com/index.php), designed by Alan Dague-Greene for John August and released as “Highland Sans” with Highland by Quote-Unquote Apps.
+
+[https://www.fleg.de/paranoia-sans](https://www.fleg.de/paranoia-sans)
+
+![Paranoia Sans Demo](images/ParanoiaSans-short.gif)
+
+
+## About
+
+PARANOIA SANS is a self-censoring, conspiratorial typeface that will automatically redact terms that are popular in conspiracy myths. 
+
+It IS a conspiracy. They ARE after you. And now, you have a typeface to prove it.
+
+
+## How it works
+
+PARANOIA SANS uses *ligatures* (an open type font feature that replaces a combination of strings with other characters) to replace a list of conspiratorial terms with a graphic resembling a redacted word. E.g. the ligature "5G" is replaced by a two-character wide black box. 
+
+

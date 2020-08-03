@@ -1,0 +1,9 @@
+FONTLOG for the PARANOIA SANS
+
+Basic Font Information
+
+PARANOIA SANS is a modified version of Courier Prime Sans by  Quote-Unquote Apps.
+
+PARANOIA SANS is a Unicode typeface family with unexpected ligatures. 
+
+To contribute to PARANOIA SANS contact Florian Egermann hallo@fleg.de
