@@ -1,8 +1,6 @@
 # PARANOIA SANS
 V. 1.2
 
-![](images/Logo.png)
-
 A self-censoring font by [Florian Egermann](https://www.fleg.de), 2020
 
 Based on [Courier Prime Sans](https://quoteunquoteapps.com/courierprime/#code-sans) by [Quote-Unquote Apps](https://quoteunquoteapps.com/index.php).
