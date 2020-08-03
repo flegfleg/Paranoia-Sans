@@ -5,7 +5,7 @@ V. 1.2
 
 A self-censoring font by [Florian Egermann](https://www.fleg.de), 2020
 
-Based on [Courier Prime Sans](https://quoteunquoteapps.com/courierprime/#code-sans) by [Quote-Unquote Apps](https://quoteunquoteapps.com/index.php), designed by Alan Dague-Greene for John August and released as “Highland Sans” with Highland by Quote-Unquote Apps.
+Based on [Courier Prime Sans](https://quoteunquoteapps.com/courierprime/#code-sans) by [Quote-Unquote Apps](https://quoteunquoteapps.com/index.php).
 
 [https://www.fleg.de/paranoia-sans](https://www.fleg.de/paranoia-sans)
 
