@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ellipsis.alt4" format="1">
-  <advance width="1228"/>
-  <outline>
-    <component base="period" xOffset="-859" yOffset="-4" xScale="0.812" yScale="0.812"/>
-    <component base="period" xOffset="-179" yOffset="-4" xScale="0.812" yScale="0.812"/>
-    <component base="period" xOffset="501" yOffset="-4" xScale="0.812" yScale="0.812"/>
-  </outline>
-</glyph>
