@@ -5,7 +5,7 @@ A self-censoring font by [Florian Egermann](https://www.fleg.de), 2020
 
 Based on [Courier Prime Sans](https://quoteunquoteapps.com/courierprime/#code-sans) by [Quote-Unquote Apps](https://quoteunquoteapps.com/index.php).
 
-[https://www.fleg.de/paranoia-sans](https://www.fleg.de/paranoia-sans)
+[https://www.fleg.de/paranoia](https://www.fleg.de/paranoia)
 
 ![Paranoia Sans Demo](images/ParanoiaSans-short.gif)
 
