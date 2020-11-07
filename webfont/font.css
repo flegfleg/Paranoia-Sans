@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Paranoia Sans_Regular';
+    src:    url('Paranoia_Sans-Regular_web.woff') format('woff'),
+            url('Paranoia_Sans-Regular_web.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -2,8 +2,17 @@ FONTLOG for the PARANOIA SANS
 
 Basic Font Information
 
+PARANOIA SANS is a self-censoring, conspiratorial typeface that will automatically redact more than 150 words popular in conspiracy myths/theories.
 PARANOIA SANS is a modified version of Courier Prime Sans by  Quote-Unquote Apps.
-
 PARANOIA SANS is a Unicode typeface family with unexpected ligatures. 
 
 To contribute to PARANOIA SANS contact Florian Egermann hallo@fleg.de
+
+
+ChangeLog
+
+7.11.2020 (v.1.3)
+- Special U.S. Election Edition update - new terms added
+
+1.9.2020 (v.1.0)
+- Initial release

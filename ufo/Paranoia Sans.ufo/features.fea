@@ -34,7 +34,7 @@ feature liga {
     sub  w r o n g by tWRONG;
     sub  W r o n g by tWRONG;
     # Replace from here with copy from ligatures.fae
-    # Ligature for: 2012 phenomenon
+     # Ligature for: 2012 phenomenon
     sub  two zero one two space P H E N O M E N O N by w16;
     sub  two zero one two space p h e n o m e n o n by w16;
     sub  two zero one two space P h e n o m e n o n by w16;
@@ -54,34 +54,38 @@ feature liga {
     sub  nine slash one one by w5;
     sub  nine slash one one by w5;
     sub  nine slash one one by w5;
-    # Ligature for: Abel
-    sub  A B E L by w5;
-    sub  a b e l by w5;
-    sub  A b e l by w5;
-    # Ligature for: adrenochrom
-    sub  A D R E N O C H R O M by w12;
-    sub  a d r e n o c h r o m by w12;
-    sub  A d r e n o c h r o m by w12;
-    # Ligature for: Agenda 21
-    sub  A G E N D A space two one by w10;
-    sub  a g e n d a space two one by w10;
-    sub  A g e n d a space two one by w10;
     # Ligature for: AIDS
     sub  A I D S by w5;
     sub  a i d s by w5;
     sub  A i d s by w5;
-    # Ligature for: Alien abduction
-    sub  A L I E N space A B D U C T I O N by w16;
-    sub  a l i e n space a b d u c t i o n by w16;
-    sub  A l i e n space A b d u c t i o n by w16;
+    # Ligature for: Abel
+    sub  A B E L by w5;
+    sub  a b e l by w5;
+    sub  A b e l by w5;
+    # Ligature for: Absentee ballot
+    sub  A B S E N T E E space B A L L O T by w16;
+    sub  a b s e n t e e space b a l l o t by w16;
+    sub  A b s e n t e e space B a l l o t by w16;
+    # Ligature for: Agenda 21
+    sub  A G E N D A space two one by w10;
+    sub  a g e n d a space two one by w10;
+    sub  A g e n d a space two one by w10;
     # Ligature for: Alien Autopsy
     sub  A L I E N space A U T O P S Y by w14;
     sub  a l i e n space a u t o p s y by w14;
     sub  A l i e n space A u t o p s y by w14;
+    # Ligature for: Alien abduction
+    sub  A L I E N space A B D U C T I O N by w16;
+    sub  a l i e n space a b d u c t i o n by w16;
+    sub  A l i e n space A b d u c t i o n by w16;
     # Ligature for: Aliens
     sub  A L I E N S by w7;
     sub  a l i e n s by w7;
     sub  A l i e n s by w7;
+    # Ligature for: Alternative Facts
+    sub  A L T E R N A T I V E space F A C T S by w18;
+    sub  a l t e r n a t i v e space f a c t s by w18;
+    sub  A l t e r n a t i v e space F a c t s by w18;
     # Ligature for: Andinia Plan 
     sub  A N D I N I A space P L A N space by w14;
     sub  a n d i n i a space p l a n space by w14;
@@ -98,6 +102,10 @@ feature liga {
     sub  A R T I F I C I A L space D I S E A S E by w19;
     sub  a r t i f i c i a l space d i s e a s e by w19;
     sub  A r t i f i c i a l space D i s e a s e by w19;
+    # Ligature for: BRD GmbH
+    sub  B R D space G M B H by w9;
+    sub  b r d space g m b h by w9;
+    sub  B r d space G m b h by w9;
     # Ligature for: Babylon
     sub  B A B Y L O N by w8;
     sub  b a b y l o n by w8;
@@ -126,46 +134,22 @@ feature liga {
     sub  B I L D E R B E R G by w11;
     sub  b i l d e r b e r g by w11;
     sub  B i l d e r b e r g by w11;
-    # Ligature for: bill gates
-    sub  B I L L space G A T E S by w11;
-    sub  b i l l space g a t e s by w11;
-    sub  B i l l space G a t e s by w11;
-    # Ligature for: bio weapon
-    sub  B I O space W E A P O N by w11;
-    sub  b i o space w e a p o n by w11;
-    sub  B i o space W e a p o n by w11;
     # Ligature for: Black helicopter
     sub  B L A C K space H E L I C O P T E R by w17;
     sub  b l a c k space h e l i c o p t e r by w17;
     sub  B l a c k space H e l i c o p t e r by w17;
-    # Ligature for: BRD GmbH
-    sub  B R D space G M B H by w9;
-    sub  b r d space g m b h by w9;
-    sub  B r d space G m b h by w9;
-    # Ligature for: cabal
-    sub  C A B A L by w6;
-    sub  c a b a l by w6;
-    sub  C a b a l by w6;
     # Ligature for: Challenger
     sub  C H A L L E N G E R by w11;
     sub  c h a l l e n g e r by w11;
     sub  C h a l l e n g e r by w11;
-    # Ligature for: chemicals
-    sub  C H E M I C A L S by w10;
-    sub  c h e m i c a l s by w10;
-    sub  C h e m i c a l s by w10;
-    # Ligature for: chemtrail
-    sub  C H E M T R A I L by w10;
-    sub  c h e m t r a i l by w10;
-    sub  C h e m t r a i l by w10;
     # Ligature for: Chinese lab
     sub  C H I N E S E space L A B by w12;
     sub  c h i n e s e space l a b by w12;
     sub  C h i n e s e space L a b by w12;
-    # Ligature for: citizengo
-    sub  C I T I Z E N G O by w10;
-    sub  c i t i z e n g o by w10;
-    sub  C i t i z e n g o by w10;
+    # Ligature for: Chipping
+    sub  C H I P P I N G by w9;
+    sub  c h i p p i n g by w9;
+    sub  C h i p p i n g by w9;
     # Ligature for: Clinton
     sub  C L I N T O N by w8;
     sub  c l i n t o n by w8;
@@ -182,6 +166,10 @@ feature liga {
     sub  C O T E S space D U space R H O N E S by w16;
     sub  c o t e s space d u space r h o n e s by w16;
     sub  C o t e s space D u space R h o n e s by w16;
+    # Ligature for: Covid-19
+    sub  C O V I D hyphen one nine by w9;
+    sub  c o v i d hyphen one nine by w9;
+    sub  C o v i d hyphen one nine by w9;
     # Ligature for: Creation Science 
     sub  C R E A T I O N space S C I E N C E space by w18;
     sub  c r e a t i o n space s c i e n c e space by w18;
@@ -198,14 +186,6 @@ feature liga {
     sub  C U L T space O F space A W by w11;
     sub  c u l t space o f space a w by w11;
     sub  C u l t space O f space A w by w11;
-    # Ligature for: cultural Marxism
-    sub  C U L T U R A L space M A R X I S M by w17;
-    sub  c u l t u r a l space m a r x i s m by w17;
-    sub  C u l t u r a l space M a r x i s m by w17;
-    # Ligature for: deep state
-    sub  D E E P space S T A T E by w11;
-    sub  d e e p space s t a t e by w11;
-    sub  D e e p space S t a t e by w11;
     # Ligature for: Demo für Alle
     sub  D E M O space F Udieresis R space A L L E by w14;
     sub  d e m o space f udieresis r space a l l e by w14;
@@ -226,18 +206,22 @@ feature liga {
     sub  E N E R G I E S P A R L A M P E N by w18;
     sub  e n e r g i e s p a r l a m p e n by w18;
     sub  E n e r g i e s p a r l a m p e n by w18;
+    # Ligature for: Exosomes
+    sub  E X O S O M E S by w9;
+    sub  e x o s o m e s by w9;
+    sub  E x o s o m e s by w9;
     # Ligature for: Extraterrestrial
     sub  E X T R A T E R R E S T R I A L by w17;
     sub  e x t r a t e r r e s t r i a l by w17;
     sub  E x t r a t e r r e s t r i a l by w17;
-    # Ligature for: False Flag
-    sub  F A L S E space F L A G by w11;
-    sub  f a l s e space f l a g by w11;
-    sub  F a l s e space F l a g by w11;
     # Ligature for: FEMA
     sub  F E M A by w5;
     sub  f e m a by w5;
     sub  F e m a by w5;
+    # Ligature for: False Flag
+    sub  F A L S E space F L A G by w11;
+    sub  f a l s e space f l a g by w11;
+    sub  F a l s e space F l a g by w11;
     # Ligature for: Fichen
     sub  F I C H E N by w7;
     sub  f i c h e n by w7;
@@ -286,6 +270,10 @@ feature liga {
     sub  G E D A N K E N K O N T R O L L E by w18;
     sub  g e d a n k e n k o n t r o l l e by w18;
     sub  G e d a n k e n k o n t r o l l e by w18;
+    # Ligature for: Gemini Astronaut
+    sub  G E M I N I space A S T R O N A U T by w17;
+    sub  g e m i n i space a s t r o n a u t by w17;
+    sub  G e m i n i space A s t r o n a u t by w17;
     # Ligature for: Geoengineering
     sub  G E O E N G I N E E R I N G by w15;
     sub  g e o e n g i n e e r i n g by w15;
@@ -306,10 +294,6 @@ feature liga {
     sub  H E I L I G E space G R A L by w13;
     sub  h e i l i g e space g r a l by w13;
     sub  H e i l i g e space G r a l by w13;
-    # Ligature for: hoax
-    sub  H O A X by w5;
-    sub  h o a x by w5;
-    sub  H o a x by w5;
     # Ligature for: Hochfinanz
     sub  H O C H F I N A N Z by w11;
     sub  h o c h f i n a n z by w11;
@@ -322,6 +306,10 @@ feature liga {
     sub  H O L L O W space E A R T H by w13;
     sub  h o l l o w space e a r t h by w13;
     sub  H o l l o w space E a r t h by w13;
+    # Ligature for: IMPERSONATION
+    sub  I M P E R S O N A T I O N by w14;
+    sub  i m p e r s o n a t i o n by w14;
+    sub  I m p e r s o n a t i o n by w14;
     # Ligature for: Iden des März
     sub  I D E N space D E S space M adieresis R Z by w14;
     sub  i d e n space d e s space m adieresis r z by w14;
@@ -342,10 +330,6 @@ feature liga {
     sub  I N F O W A R S by w9;
     sub  i n f o w a r s by w9;
     sub  I n f o w a r s by w9;
-    # Ligature for: inside job
-    sub  I N S I D E space J O B by w11;
-    sub  i n s i d e space j o b by w11;
-    sub  I n s i d e space J o b by w11;
     # Ligature for: Interdimensional
     sub  I N T E R D I M E N S I O N A L by w17;
     sub  i n t e r d i m e n s i o n a l by w17;
@@ -358,14 +342,14 @@ feature liga {
     sub  J period F period space K E N N E D Y by w13;
     sub  j period f period space k e n n e d y by w13;
     sub  J period F period space K e n n e d y by w13;
-    # Ligature for: Jeffrey Epstein
-    sub  J E F F R E Y space E P S T E I N by w16;
-    sub  j e f f r e y space e p s t e i n by w16;
-    sub  J e f f r e y space E p s t e i n by w16;
     # Ligature for: JFK
     sub  J F K by w4;
     sub  j f k by w4;
     sub  J f k by w4;
+    # Ligature for: Jeffrey Epstein
+    sub  J E F F R E Y space E P S T E I N by w16;
+    sub  j e f f r e y space e p s t e i n by w16;
+    sub  J e f f r e y space E p s t e i n by w16;
     # Ligature for: Jihad 
     sub  J I H A D space by w7;
     sub  j i h a d space by w7;
@@ -378,10 +362,6 @@ feature liga {
     sub  J U D E O P O L O N I A space by w14;
     sub  j u d e o p o l o n i a space by w14;
     sub  J u d e o p o l o n i a space by w14;
-    # Ligature for: kabal
-    sub  K A B A L by w6;
-    sub  k a b a l by w6;
-    sub  K a b a l by w6;
     # Ligature for: Kalergi Plan 
     sub  K A L E R G I space P L A N space by w14;
     sub  k a l e r g i space p l a n space by w14;
@@ -406,10 +386,18 @@ feature liga {
     sub  L A D Y space D I by w8;
     sub  l a d y space d i by w8;
     sub  L a d y space D i by w8;
-    # Ligature for: lizard
-    sub  L I Z A R D by w7;
-    sub  l i z a r d by w7;
-    sub  L i z a r d by w7;
+    # Ligature for: Lady Diana
+    sub  L A D Y space D I A N A by w11;
+    sub  l a d y space d i a n a by w11;
+    sub  L a d y space D i a n a by w11;
+    # Ligature for: Lamestream Media
+    sub  L A M E S T R E A M space M E D I A by w17;
+    sub  l a m e s t r e a m space m e d i a by w17;
+    sub  L a m e s t r e a m space M e d i a by w17;
+    # Ligature for: Liberal snowflakes
+    sub  L I B E R A L space S N O W F L A K E S by w19;
+    sub  l i b e r a l space s n o w f l a k e s by w19;
+    sub  L i b e r a l space S n o w f l a k e s by w19;
     # Ligature for: Lügenpresse
     sub  L Udieresis G E N P R E S S E by w12;
     sub  l udieresis g e n p r e s s e by w12;
@@ -446,10 +434,6 @@ feature liga {
     sub  M E X I C A N space R E C O N Q U I S T A by w20;
     sub  m e x i c a n space r e c o n q u i s t a by w20;
     sub  M e x i c a n space R e c o n q u i s t a by w20;
-    # Ligature for: mind control
-    sub  M I N D space C O N T R O L by w13;
-    sub  m i n d space c o n t r o l by w13;
-    sub  M i n d space C o n t r o l by w13;
     # Ligature for: Moon Landing
     sub  M O O N space L A N D I N G by w13;
     sub  m o o n space l a n d i n g by w13;
@@ -462,10 +446,6 @@ feature liga {
     sub  N E W space C H R O N O L O G Y space by w16;
     sub  n e w space c h r o n o l o g y space by w16;
     sub  N e w space C h r o n o l o g y space by w16;
-    # Ligature for: new world order
-    sub  N E W space W O R L D space O R D E R by w16;
-    sub  n e w space w o r l d space o r d e r by w16;
-    sub  N e w space W o r l d space O r d e r by w16;
     # Ligature for: New World Order
     sub  N E W space W O R L D space O R D E R by w16;
     sub  n e w space w o r l d space o r d e r by w16;
@@ -490,18 +470,10 @@ feature liga {
     sub  P H O E B U S by w8;
     sub  p h o e b u s by w8;
     sub  P h o e b u s by w8;
-    # Ligature for: pigeons
-    sub  P I G E O N S by w8;
-    sub  p i g e o n s by w8;
-    sub  P i g e o n s by w8;
     # Ligature for: Pizzagate
     sub  P I Z Z A G A T E by w10;
     sub  p i z z a g a t e by w10;
     sub  P i z z a g a t e by w10;
-    # Ligature for: plot
-    sub  P L O T by w5;
-    sub  p l o t by w5;
-    sub  P l o t by w5;
     # Ligature for: Project Azorian
     sub  P R O J E C T space A Z O R I A N by w16;
     sub  p r o j e c t space a z o r i a n by w16;
@@ -510,14 +482,14 @@ feature liga {
     sub  P R O J E C T space S E R P O by w14;
     sub  p r o j e c t space s e r p o by w14;
     sub  P r o j e c t space S e r p o by w14;
-    # Ligature for: q-anon
-    sub  Q hyphen A N O N by w7;
-    sub  q hyphen a n o n by w7;
-    sub  Q hyphen A n o n by w7;
     # Ligature for: QAnon
     sub  Q A N O N by w6;
     sub  q a n o n by w6;
     sub  Q a n o n by w6;
+    # Ligature for: RFID
+    sub  R F I D by w5;
+    sub  r f i d by w5;
+    sub  R f i d by w5;
     # Ligature for: Red mercury
     sub  R E D space M E R C U R Y by w12;
     sub  r e d space m e r c u r y by w12;
@@ -538,10 +510,6 @@ feature liga {
     sub  R E P T I L O I D E by w11;
     sub  r e p t i l o i d e by w11;
     sub  R e p t i l o i d e by w11;
-    # Ligature for: RFID
-    sub  R F I D by w5;
-    sub  r f i d by w5;
-    sub  R f i d by w5;
     # Ligature for: Rockefeller
     sub  R O C K E F E L L E R by w12;
     sub  r o c k e f e l l e r by w12;
@@ -562,6 +530,10 @@ feature liga {
     sub  S A N D Y space H O O K by w11;
     sub  s a n d y space h o o k by w11;
     sub  S a n d y space H o o k by w11;
+    # Ligature for: Sars-cov-2
+    sub  S A R S hyphen C O V hyphen two by w11;
+    sub  s a r s hyphen c o v hyphen two by w11;
+    sub  S a r s hyphen C o v hyphen two by w11;
     # Ligature for: Secret Society
     sub  S E C R E T space S O C I E T Y by w15;
     sub  s e c r e t space s o c i e t y by w15;
@@ -570,10 +542,10 @@ feature liga {
     sub  S E T H space R I C H by w10;
     sub  s e t h space r i c h by w10;
     sub  S e t h space R i c h by w10;
-    # Ligature for: sheeple
-    sub  S H E E P L E by w8;
-    sub  s h e e p l e by w8;
-    sub  S h e e p l e by w8;
+    # Ligature for: Skull and Bones
+    sub  S K U L L space A N D space B O N E S by w16;
+    sub  s k u l l space a n d space b o n e s by w16;
+    sub  S k u l l space A n d space B o n e s by w16;
     # Ligature for: Spygate
     sub  S P Y G A T E by w8;
     sub  s p y g a t e by w8;
@@ -594,14 +566,14 @@ feature liga {
     sub  T H E space E L I T E by w10;
     sub  t h e space e l i t e by w10;
     sub  T h e space E l i t e by w10;
-    # Ligature for: the liberal elite
-    sub  T H E space L I B E R A L space E L I T E by w18;
-    sub  t h e space l i b e r a l space e l i t e by w18;
-    sub  T h e space L i b e r a l space E l i t e by w18;
     # Ligature for: Thotschild
     sub  T H O T S C H I L D by w11;
     sub  t h o t s c h i l d by w11;
     sub  T h o t s c h i l d by w11;
+    # Ligature for: Thought control
+    sub  T H O U G H T space C O N T R O L by w16;
+    sub  t h o u g h t space c o n t r o l by w16;
+    sub  T h o u g h t space C o n t r o l by w16;
     # Ligature for: Titanic
     sub  T I T A N I C by w8;
     sub  t i t a n i c by w8;
@@ -622,6 +594,10 @@ feature liga {
     sub  V A C C I N A T I O N by w12;
     sub  v a c c i n a t i o n by w12;
     sub  V a c c i n a t i o n by w12;
+    # Ligature for: WHO
+    sub  W H O by w4;
+    sub  w h o by w4;
+    sub  W h o by w4;
     # Ligature for: Wall Street
     sub  W A L L space S T R E E T by w12;
     sub  w a l l space s t r e e t by w12;
@@ -634,22 +610,10 @@ feature liga {
     sub  W E A T H E R space C O N T R O L by w16;
     sub  w e a t h e r space c o n t r o l by w16;
     sub  W e a t h e r space C o n t r o l by w16;
-    # Ligature for: white genocide
-    sub  W H I T E space G E N O C I D E by w15;
-    sub  w h i t e space g e n o c i d e by w15;
-    sub  W h i t e space G e n o c i d e by w15;
-    # Ligature for: WHO
-    sub  W H O by w4;
-    sub  w h o by w4;
-    sub  W h o by w4;
     # Ligature for: World Control
     sub  W O R L D space C O N T R O L by w14;
     sub  w o r l d space c o n t r o l by w14;
     sub  W o r l d space C o n t r o l by w14;
-    # Ligature for: world domination
-    sub  W O R L D space D O M I N A T I O N by w17;
-    sub  w o r l d space d o m i n a t i o n by w17;
-    sub  W o r l d space D o m i n a t i o n by w17;
     # Ligature for: Wurmloch
     sub  W U R M L O C H by w9;
     sub  w u r m l o c h by w9;
@@ -658,6 +622,10 @@ feature liga {
     sub  Y A N K E E space A N D space C O W B O Y by w18;
     sub  y a n k e e space a n d space c o w b o y by w18;
     sub  Y a n k e e space A n d space C o w b o y by w18;
+    # Ligature for: ZOG
+    sub  Z O G by w4;
+    sub  z o g by w4;
+    sub  Z o g by w4;
     # Ligature for: Zinsknechtschaft
     sub  Z I N S K N E C H T S C H A F T by w17;
     sub  z i n s k n e c h t s c h a f t by w17;
@@ -666,10 +634,114 @@ feature liga {
     sub  Z I O N I S T space O C C U P A T I O N by w19;
     sub  z i o n i s t space o c c u p a t i o n by w19;
     sub  Z i o n i s t space O c c u p a t i o n by w19;
-    # Ligature for: ZOG
-    sub  Z O G by w3;
-    sub  z o g by w3;
-    sub  Z o g by w3;
+    # Ligature for: adrenochrom
+    sub  A D R E N O C H R O M by w12;
+    sub  a d r e n o c h r o m by w12;
+    sub  A d r e n o c h r o m by w12;
+    # Ligature for: bill gates
+    sub  B I L L space G A T E S by w11;
+    sub  b i l l space g a t e s by w11;
+    sub  B i l l space G a t e s by w11;
+    # Ligature for: bio weapon
+    sub  B I O space W E A P O N by w11;
+    sub  b i o space w e a p o n by w11;
+    sub  B i o space W e a p o n by w11;
+    # Ligature for: cabal
+    sub  C A B A L by w6;
+    sub  c a b a l by w6;
+    sub  C a b a l by w6;
+    # Ligature for: chemicals
+    sub  C H E M I C A L S by w10;
+    sub  c h e m i c a l s by w10;
+    sub  C h e m i c a l s by w10;
+    # Ligature for: chemtrail
+    sub  C H E M T R A I L by w10;
+    sub  c h e m t r a i l by w10;
+    sub  C h e m t r a i l by w10;
+    # Ligature for: citizengo
+    sub  C I T I Z E N G O by w10;
+    sub  c i t i z e n g o by w10;
+    sub  C i t i z e n g o by w10;
+    # Ligature for: cultural Marxism
+    sub  C U L T U R A L space M A R X I S M by w17;
+    sub  c u l t u r a l space m a r x i s m by w17;
+    sub  C u l t u r a l space M a r x i s m by w17;
+    # Ligature for: deep state
+    sub  D E E P space S T A T E by w11;
+    sub  d e e p space s t a t e by w11;
+    sub  D e e p space S t a t e by w11;
+    # Ligature for: hoax
+    sub  H O A X by w5;
+    sub  h o a x by w5;
+    sub  H o a x by w5;
+    # Ligature for: illegal votes
+    sub  I L L E G A L space V O T E S by w14;
+    sub  i l l e g a l space v o t e s by w14;
+    sub  I l l e g a l space V o t e s by w14;
+    # Ligature for: inside job
+    sub  I N S I D E space J O B by w11;
+    sub  i n s i d e space j o b by w11;
+    sub  I n s i d e space J o b by w11;
+    # Ligature for: kabal
+    sub  K A B A L by w6;
+    sub  k a b a l by w6;
+    sub  K a b a l by w6;
+    # Ligature for: late ballots
+    sub  L A T E space B A L L O T S by w13;
+    sub  l a t e space b a l l o t s by w13;
+    sub  L a t e space B a l l o t s by w13;
+    # Ligature for: lizard
+    sub  L I Z A R D by w7;
+    sub  l i z a r d by w7;
+    sub  L i z a r d by w7;
+    # Ligature for: mail-in ballot
+    sub  M A I L hyphen I N space B A L L O T by w15;
+    sub  m a i l hyphen i n space b a l l o t by w15;
+    sub  M a i l hyphen I n space B a l l o t by w15;
+    # Ligature for: mind control
+    sub  M I N D space C O N T R O L by w13;
+    sub  m i n d space c o n t r o l by w13;
+    sub  M i n d space C o n t r o l by w13;
+    # Ligature for: pigeons
+    sub  P I G E O N S by w8;
+    sub  p i g e o n s by w8;
+    sub  P i g e o n s by w8;
+    # Ligature for: plot
+    sub  P L O T by w5;
+    sub  p l o t by w5;
+    sub  P l o t by w5;
+    # Ligature for: q-anon
+    sub  Q hyphen A N O N by w7;
+    sub  q hyphen a n o n by w7;
+    sub  Q hyphen A n o n by w7;
+    # Ligature for: sheeple
+    sub  S H E E P L E by w8;
+    sub  s h e e p l e by w8;
+    sub  S h e e p l e by w8;
+    # Ligature for: stolen election
+    sub  S T O L E N space E L E C T I O N by w16;
+    sub  s t o l e n space e l e c t i o n by w16;
+    sub  S t o l e n space E l e c t i o n by w16;
+    # Ligature for: stop the count
+    sub  S T O P space T H E space C O U N T by w15;
+    sub  s t o p space t h e space c o u n t by w15;
+    sub  S t o p space T h e space C o u n t by w15;
+    # Ligature for: the liberal elite
+    sub  T H E space L I B E R A L space E L I T E by w18;
+    sub  t h e space l i b e r a l space e l i t e by w18;
+    sub  T h e space L i b e r a l space E l i t e by w18;
+    # Ligature for: voter fraud
+    sub  V O T E R space F R A U D by w12;
+    sub  v o t e r space f r a u d by w12;
+    sub  V o t e r space F r a u d by w12;
+    # Ligature for: white genocide
+    sub  W H I T E space G E N O C I D E by w15;
+    sub  w h i t e space g e n o c i d e by w15;
+    sub  W h i t e space G e n o c i d e by w15;
+    # Ligature for: world domination
+    sub  W O R L D space D O M I N A T I O N by w16;
+    sub  w o r l d space d o m i n a t i o n by w16;
+    sub  W o r l d space D o m i n a t i o n by w16;
 } liga;
 
 
